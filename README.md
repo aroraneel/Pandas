@@ -1,9 +1,20 @@
-This notebook contains **practice exercises for learning Pandas** using the Titanic dataset.  
-It focuses on understanding DataFrame structure, data inspection, filtering, cleaning, and basic transformations.
+# Pandas
 
-## Author
-Neel Arora
+## 🏷️ Tags
+- Python
+- Pandas
+- Data Analysis
+- Data Cleaning
+- Data Preprocessing
+- Data Manipulation
 
-## Notes
-This file is for **learning and practice purposes only** and is not intended to represent a complete project.
+## 🔍 Concepts Covered
+- Reading & writing CSV files
+- Handling missing values
+- Data filtering & indexing
+- apply(), map(), lambda functions
+- GroupBy operations
+- Data transformation
 
+## 📌 Purpose
+Practice and reference for Pandas operations used in data analysis and machine learning workflows.
